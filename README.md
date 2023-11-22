@@ -31,6 +31,7 @@ o qual iniciei em 2022, nas horas vagas gosto de apreciar a natureza enquanto ar
 <a href="https://www.domrock.net/">
 <img src="https://github.com/GuiAlvesdev/portfoliobancodedadosfatec/blob/main/domrock.jpg" alt="domrock" style="width:300px;height:300px;"></a>
 
+<p>A DomRock foi a parceira do projeto do 3 semestre, a qual e uma software house com sede em sao jose dos campos-sp, destaque na cidade  e reconhecida no ranking de empresas BigData, a mesma propos um software web que fosse possivel fazer a manipulacao dos dados extraidos por uma IA e repassado a aplicacao para que seja gerenciada vendas</p>
 <h3>Objetivo</h3>
 
 O RockPlanning consiste em aplicação web que visando o gerenciamento das vendas de uma empresa, considerando o histórico do vendedor, o planejamento e as vendas realizadas. Deverá apresentar um comparativo dos dados mencionados anteriormente para que possam ser analisados de forma precisa e detalhada. Além disso, a aplicação será aprimorada com a adição de uma predição gerada por um algoritmo de Inteligência Artificial pré-existente, a fim de proporcionar maior precisão e confiabilidade, o vendedor tem acesso a plataforma atraves de login e senha anteriormente criados e disponibiliazados ao mesmo.
