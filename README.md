@@ -58,19 +58,35 @@ O RockPlanning consiste em aplicação web que visando o gerenciamento das venda
 
 <div align="center">
 
+</div>
 
-<h2>Contribuições Pessoais</h2> 
+<h2>Contribuições Pessoais</h2>
+
 Desempenhei junto a equipe do back-end focado na construcao de uma aplicacao Rest utilizando a linguagem java e seu framework Spring-Boot, desenvolvendo os end-points da aplicacao, utilizando os padroes de projeto como MVC, seguranca da aplicacao, autenticacao de um usuario na mesma ao realizar o login, gerenciar de forma efetiva excessoes disparadas pela mesma, testes manuais, como ja tinha experiencia utilizando o principal framework que seria utilizado no projeto e linguagem, tive um papel chave para trablhar junto aos demais como seria a melhor abordagem com problemas que foram aparecendo conforme o projeto foi se destrinchando.
 
 
--Arquitetura do Banco de Dados.
--Seguranca da Aplicacao
--Desenvolvimento de API REST
-- Testes Manuais
+
+* Arquitetura Rest
+
+
+![image](https://github.com/GuiAlvesdev/portfoliobancodedadosfatec/assets/72584502/18751f2a-cd43-4efd-8405-319c00e49f5d)
+
+
+<
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>Lições Aprendidas</h2> 
 Tive o meu primeiro contato de forma pratica em um projeto utilizando  JAVA 17 e seu framework spring-boot junto com todo seu ecossistema, algo que eu havia ja estudado por um tempo e feito apenas projetos menores e de autoria propria, sendo assim foi de grande importancia, os erros me mostraram a importancia de buscar melhor a documentacao das versoes para adaptar o projeto sem erros, visto que a propria documentacao do spring o qual foi utilizado na maioria das vezes nao se aprofunda em explicar o que foi depreciado e qual o correto caminho para atualizar os projetos com versoes antigas, sendo assim a importancia de se manter atualizado na area de TI se torna o papel chave, uma rotina de estudos constantes e ter a humildade de tirar duvida com outras pessoas, mudando toda minha pespectiva de que nem sempre devemos seguir apenas um caminho, mas poder ir a fundo e contornar e pensar em maneiras de se solucionar um problema.
-</div>
 
 
 
