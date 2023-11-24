@@ -72,7 +72,9 @@ Desempenhei junto a equipe do back-end focado na construcao de uma aplicacao Res
 ![image](https://github.com/GuiAlvesdev/portfoliobancodedadosfatec/assets/72584502/18751f2a-cd43-4efd-8405-319c00e49f5d)
 
 
-<
+ * detalhes
+
+   - No exemplo acima temos um endpoint controller que foi utilizado para o cadastro..
 
 
 
